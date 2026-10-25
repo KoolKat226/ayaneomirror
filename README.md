@@ -1,4 +1,4 @@
-<h1 style="font-size: 30px;">Introducing a better option to the Ayaneo Pocket DS magnifier application.</h1>
+<h1 style="font-size: 30px;">Introducing a better option to the Ayaneo Pocket DS magnifier application. (ROOT REQUIRED)</h1>
 <br>
 This application has no latency and has real time multitouch support (Meaning you can interact with the top display through the bottom display)
 <br>
