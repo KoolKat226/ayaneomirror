@@ -1,6 +1,6 @@
 <h1 style="font-size: 30px;">Introducing a better option to the Ayaneo Pocket DS magnifier application. (ROOT REQUIRED)</h1>
 <br>
-This application has no latency and has real time multitouch support (Meaning you can interact with the top display through the bottom display)
+This application has no latency and has real time multitouch support (Meaning you can interact with the top display through the bottom display and vice versa)
 <br>
 <img width="490" height="490" alt="dualscreen" src="https://github.com/user-attachments/assets/408bfc03-116c-4531-8e69-7eb1c0397d5c" />
 
